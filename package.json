@@ -1,0 +1,23 @@
+{
+  "name": "book-inventory",
+  "version": "1.0.0",
+  "description": "A book inventory management application in NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kagan-dupuy-reagan/book-inventory.git"
+  },
+  "keywords": [
+    "student",
+    "inventory"
+  ],
+  "author": "kagan dupuy-reagan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kagan-dupuy-reagan/book-inventory/issues"
+  },
+  "homepage": "https://github.com/kagan-dupuy-reagan/book-inventory#readme"
+}
