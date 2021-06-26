@@ -2,7 +2,7 @@
   "name": "book-inventory",
   "version": "1.0.0",
   "description": "A book inventory management application in NodeJS.",
-  "main": "index.js",
+  "main": "app.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kagan-dupuy-reagan/book-inventory/issues"
   },
-  "homepage": "https://github.com/kagan-dupuy-reagan/book-inventory#readme"
+  "homepage": "https://github.com/kagan-dupuy-reagan/book-inventory#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }
