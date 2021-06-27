@@ -1,0 +1,34 @@
+{
+    "collection" :
+    {
+      "version" : "1.0",
+      "href" : "https://kagan-dupuy-reagan.com/book-inventory/books",
+      "items" :
+      [
+        {
+          "href" : "https://book-inventory-mgmt.herokuapp.com/1",
+          "data" : [
+              { "name": "id", "value": 1, "prompt": "Reference Number"},
+              { "name": "title", "value": "Norway", "prompt": "Title"},
+              { "name": "authors", "value": ["Ola Waklov", "Per Eide"], "prompt": "Author" },
+              { "name": "isbn", "value": 9788281691162, "prompt": "ISBN"},
+              { "name": "page-length", "value": 181, "prompt": "Page Length"},
+              { "name": "year-of-publication", "value": 2011, "prompt": "Year of Publication"}
+          ],
+          "links" : []
+        },
+        {
+            "href" : "https://book-inventory-mgmt.herokuapp.com/2",
+            "data" : [
+                { "name": "id", "value": 2, "prompt": "Reference Number"},
+                { "name": "title", "value": "The Food of Taiwan", "prompt": "Title"},
+                { "name": "authors", "value": ["Cathy Erway"], "prompt": "Author" },
+                { "name": "isbn", "value": 9780544303010, "prompt": "ISBN"},
+                { "name": "page-length", "value": 256, "prompt": "Page Length"},
+                { "name": "year-of-publication", "value": 2015, "prompt": "Year of Publication"}
+            ],
+            "links" : []
+          }
+      ]
+    }
+  }

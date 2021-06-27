@@ -22,5 +22,9 @@
   "homepage": "https://github.com/kagan-dupuy-reagan/book-inventory#readme",
   "dependencies": {
     "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "@types/mysql": "^2.15.18",
+    "http": "*"
   }
 }
